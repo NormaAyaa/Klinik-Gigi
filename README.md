@@ -16,10 +16,10 @@ Anda dapat langsung masuk menggunakan akun demo yang telah disediakan di bawah i
 
 | Role / Peran | Nama Akun | Email | Kata Sandi | Halaman Utama / Dasbor |
 | :--- | :--- | :--- | :--- | :--- |
-| **Super Admin** | Administrator Utama | `admin@senyumrekah.com` | `password123` | `/admin` |
-| **Dokter Gigi** | drg. Bima Sena, Sp.KG | `dokter@senyumrekah.com` | `password123` | `/dokter` |
-| **Resepsionis** | Siti Rahma (Front Desk) | `resepsionis@senyumrekah.com` | `password123` | `/resepsionis` |
-| **Pasien** | Andi Pratama | `pasien@senyumrekah.com` | `password123` | `/beranda` atau `/` |
+| **Super Admin** | Super Admin Lilies | `Lilies123@gmail.com` | `Lilies123` | `/admin` |
+| **Dokter Gigi** | drg. Norma Suci | `normasucicd@gmail.com` | `Ayacantik18` | `/dokter` |
+| **Resepsionis** | Resepsionis Oyen | `Oyen123@gmail.com` | `Oyen123` | `/resepsionis` |
+| **Pasien** | Mayang | `Mayang123@gmail.com` | `Mayang123` | `/beranda` atau `/` |
 
 > *Catatan: Anda juga dapat mendaftar akun baru dengan peran apapun secara langsung melalui menu [Daftar Akun](https://senyumrekah.netlify.app/daftar).*
 
